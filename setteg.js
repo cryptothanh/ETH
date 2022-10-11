@@ -1,7 +1,7 @@
 const MAX=5
-const namess="Moonmonkeys";
-const discord = 'https://discord.gg/moonmonkeys';
-const twitter = 'https://twitter.com/moonmonkeys';
+const namess="Renga Yacht Club";
+const discord = 'https://discord.gg/rengaYC';
+const twitter = 'https://twitter.com/rengaYC';
 const startCounter = 2836;
 const endCounter = 3333;
 const IMGPrice=0.005;
