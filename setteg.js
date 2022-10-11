@@ -1,7 +1,7 @@
 const MAX=5
-const namess="Simpsons Ape Yacht Club";
-const discord = 'https://discord.gg/sayc';
-const twitter = 'https://twitter.com/simpsonsapeyc';
+const namess="Moonmonkeys";
+const discord = 'https://discord.gg/moonmonkeys';
+const twitter = 'https://twitter.com/moonmonkeys';
 const startCounter = 2836;
 const endCounter = 3333;
 const IMGPrice=0.005;
