@@ -1,7 +1,7 @@
 const MAX=5
-const namess="Renga Yacht Club";
-const discord = 'https://discord.gg/rengaYC';
-const twitter = 'https://twitter.com/rengaYC';
+const namess="Batang";
+const discord = 'https://discord.gg/batangnft';
+const twitter = 'https://twitter.com/batangnft';
 const startCounter = 2836;
 const endCounter = 3333;
 const IMGPrice=0.005;
