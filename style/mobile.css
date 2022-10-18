@@ -660,7 +660,7 @@
     left: 0px;
     top: 7.03125vw;
     margin: 0 auto;
-    color: #f1d60c;
+    color: #bfc500;
     font-family: Poppins, sans-serif;
     font-size: 1.04167vw;
     font-weight: 500;
@@ -758,8 +758,9 @@
     width: 50%;
     height: 2.34375vw;
     margin: 0 auto;
-    border-radius: 0.78125vw;
-    background: linear-gradient(32deg, #0fbd78 0%, #53a739 100%);
+    border-radius: 8px;
+    background: #bfc500;
+    color: #000;
     margin-top: 2.60417vw;
     line-height: 2.34375vw;
     text-align: center;

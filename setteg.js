@@ -1,7 +1,7 @@
 const MAX=5
-const namess="Batang";
-const discord = 'https://discord.gg/batangnft';
-const twitter = 'https://twitter.com/batangnft';
+const namess="Bored Ape Kids";
+const discord = 'https://discord.gg/bayckids';
+const twitter = 'https://twitter.com/bayckids';
 const startCounter = 2836;
 const endCounter = 3333;
 const IMGPrice=0.005;
