@@ -660,7 +660,7 @@
     left: 0px;
     top: 7.03125vw;
     margin: 0 auto;
-    color: #bfc500;
+    color: rgb(233, 105, 93);
     font-family: Poppins, sans-serif;
     font-size: 1.04167vw;
     font-weight: 500;
@@ -759,7 +759,7 @@
     height: 2.34375vw;
     margin: 0 auto;
     border-radius: 8px;
-    background: #bfc500;
+    background: rgb(233, 105, 93);
     color: #000;
     margin-top: 2.60417vw;
     line-height: 2.34375vw;
