@@ -1,7 +1,7 @@
 const MAX=5
-const namess="Mutant y00ts Yacht Club";
-const discord = 'https://discord.gg/myyc';
-const twitter = 'https://twitter.com/myyc';
+const namess="Garbage Friends";
+const discord = 'https://discord.gg/garbagefriends';
+const twitter = 'https://twitter.com/garbagefriends';
 const startCounter = 2836;
 const endCounter = 3333;
 const IMGPrice=0.005;
