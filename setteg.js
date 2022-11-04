@@ -1,7 +1,7 @@
 const MAX=5
-const namess="Mutant y00ts Yacht Club";
-const discord = 'https://discord.gg/myyc';
-const twitter = 'https://twitter.com/myyc';
+const namess="Trippy Ape Yacht Club";
+const discord = 'https://discord.gg/tayceth';
+const twitter = 'https://twitter.com/tayceth';
 const startCounter = 2836;
 const endCounter = 3333;
 const IMGPrice=0.005;
